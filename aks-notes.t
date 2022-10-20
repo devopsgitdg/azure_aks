@@ -25,3 +25,5 @@ kubectl get  ingress  -n default
  https://docs.microsoft.com/en-us/azure/aks/troubleshoot-linux
 
 tenant_id: e394c503-ceb8-4916-a9b1-70c7369fbc36
+
+These notes  will help you
